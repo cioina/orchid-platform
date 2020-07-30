@@ -1,0 +1,62 @@
+Package operations: 61 installs, 0 updates, 0 removals
+  - Installing paragonie/constant_time_encoding (v2.3.0): Downloading (100%)
+  - Installing pragmarx/google2fa (8.0.0): Downloading (100%)
+  - Installing ralouphie/mimey (2.1.0): Loading from cache
+  - Installing voku/portable-ascii (1.5.3): Loading from cache
+  - Installing symfony/polyfill-ctype (v1.18.0): Loading from cache
+  - Installing phpoption/phpoption (1.7.5): Loading from cache
+  - Installing vlucas/phpdotenv (v4.1.8): Loading from cache
+  - Installing symfony/css-selector (v5.1.3): Loading from cache
+  - Installing tijsverkoyen/css-to-inline-styles (2.2.3): Loading from cache
+  - Installing symfony/polyfill-php80 (v1.18.0): Loading from cache
+  - Installing symfony/polyfill-mbstring (v1.18.0): Loading from cache
+  - Installing symfony/var-dumper (v5.1.3): Loading from cache
+  - Installing symfony/deprecation-contracts (v2.1.3): Loading from cache
+  - Installing symfony/routing (v5.1.3): Loading from cache
+  - Installing symfony/process (v5.1.3): Loading from cache
+  - Installing symfony/polyfill-php72 (v1.18.0): Loading from cache
+  - Installing paragonie/random_compat (v9.99.99): Loading from cache
+  - Installing symfony/polyfill-php70 (v1.18.0): Loading from cache
+  - Installing symfony/polyfill-intl-normalizer (v1.18.0): Loading from cache
+  - Installing symfony/polyfill-intl-idn (v1.18.0): Loading from cache
+  - Installing symfony/mime (v5.1.3): Loading from cache
+  - Installing psr/log (1.1.3): Loading from cache
+  - Installing symfony/polyfill-php73 (v1.18.0): Loading from cache
+  - Installing symfony/http-foundation (v5.1.3): Loading from cache
+  - Installing psr/event-dispatcher (1.0.0): Loading from cache
+  - Installing symfony/event-dispatcher-contracts (v2.1.3): Loading from cache
+  - Installing symfony/event-dispatcher (v5.1.3): Loading from cache
+  - Installing symfony/error-handler (v5.1.3): Loading from cache
+  - Installing symfony/http-kernel (v5.1.3): Loading from cache
+  - Installing symfony/finder (v5.1.3): Loading from cache
+  - Installing symfony/polyfill-intl-grapheme (v1.18.0): Loading from cache
+  - Installing symfony/string (v5.1.3): Loading from cache
+  - Installing psr/container (1.0.0): Loading from cache
+  - Installing symfony/service-contracts (v2.1.3): Loading from cache
+  - Installing symfony/console (v5.1.3): Loading from cache
+  - Installing symfony/polyfill-iconv (v1.18.0): Loading from cache
+  - Installing doctrine/lexer (1.2.1): Loading from cache
+  - Installing egulias/email-validator (2.1.18): Loading from cache
+  - Installing swiftmailer/swiftmailer (v6.2.3): Loading from cache
+  - Installing ramsey/collection (1.0.1): Loading from cache
+  - Installing brick/math (0.8.15): Loading from cache
+  - Installing ramsey/uuid (4.1.0): Downloading (100%)
+  - Installing psr/simple-cache (1.0.1): Loading from cache
+  - Installing opis/closure (3.5.5): Loading from cache
+  - Installing symfony/translation-contracts (v2.1.3): Loading from cache
+  - Installing symfony/translation (v5.1.3): Loading from cache
+  - Installing nesbot/carbon (2.37.0): Downloading (100%)
+  - Installing monolog/monolog (2.1.1): Loading from cache
+  - Installing league/flysystem (1.0.70): Loading from cache
+  - Installing league/commonmark (1.5.3): Loading from cache
+  - Installing dragonmantank/cron-expression (v2.3.0): Loading from cache
+  - Installing doctrine/inflector (2.0.3): Loading from cache
+  - Installing laravel/framework (v7.22.4): Downloading (100%)
+  - Installing watson/active (5.0.0): Loading from cache
+  - Installing dasprid/enum (1.0.1): Downloading (100%)
+  - Installing bacon/bacon-qr-code (2.0.1): Downloading (100%)
+  - Installing facade/ignition-contracts (1.0.1): Loading from cache
+  - Installing davejamesmiller/laravel-breadcrumbs (5.3.2): Loading from cache
+  - Installing laravel/scout (v8.1.0): Loading from cache
+  - Installing laravel/ui (v2.1.0): Loading from cache
+  - Installing myclabs/php-enum (1.7.6): Loading from cache

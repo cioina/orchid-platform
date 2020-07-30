@@ -1,0 +1,84 @@
+{
+    "name": "orchid/platform",
+    "description": "Powerful platform for building a business application using the Laravel framework.",
+    "keywords": [
+        "framework",
+        "laravel",
+        "orchid",
+        "platform",
+        "admin",
+        "cmf",
+        "cms",
+        "rad",
+        "extranet"
+    ],
+    "type": "library",
+    "license": "MIT",
+    "homepage": "https://orchid.software",
+    "support": {
+        "issues": "https://github.com/orchidsoftware/platform/issues",
+        "source": "https://github.com/orchidsoftware/platform",
+        "docs": "https://orchid.software/en/docs",
+        "email": "bliz48rus@gmail.com"
+    },
+    "authors": [
+        {
+            "name": "Alexandr Chernyaev",
+            "email": "bliz48rus@gmail.com",
+            "homepage": "https://tabuna.github.io",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "ext-json": "*",
+        "bacon/bacon-qr-code": "^2.0",
+        "davejamesmiller/laravel-breadcrumbs": "^5.3",
+        "laravel/framework": "^7.0",
+        "laravel/scout": "^8.0",
+        "laravel/ui": "^2.0",
+        "myclabs/php-enum": "^1.7",
+        "pragmarx/google2fa": "^8.0",
+        "ralouphie/mimey": "^2.1",
+        "watson/active": "^5.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Orchid\\Database\\Seeds\\": "database/seeds/",
+            "Orchid\\Access\\": "src/orchidsoftware/platform/src/Access/",
+            "Orchid\\Alert\\": "src/orchidsoftware/platform/src/Alert/",
+            "Orchid\\Attachment\\": "src/orchidsoftware/platform/src/Attachment/",
+            "Orchid\\Filters\\": "src/orchidsoftware/platform/src/Filters/",
+            "Orchid\\Platform\\": "src/orchidsoftware/platform/src/Platform/",
+            "Orchid\\Presets\\": "src/orchidsoftware/platform/src/Presets/",
+            "Orchid\\Screen\\": "src/orchidsoftware/platform/src/Screen/",
+            "Orchid\\Setting\\": "src/orchidsoftware/platform/src/Setting/",
+            "Orchid\\Support\\": "src/orchidsoftware/platform/src/Support/",
+            "App\\": "app/"
+        },
+        "files": [
+            "src/orchidsoftware/platform/src/Support/helpers.php"
+        ]
+    },
+    "autoload-dev": {
+        "classmap": [
+            "database/seeds",
+            "database/factories"
+        ]
+    },
+    "prefer-stable": true,
+    "extra": {
+        "laravel": {
+            "dont-discover": [
+            ]
+        }
+    },
+    "config": {
+        "sort-packages": true,
+        "optimize-autoloader": true
+    },
+    "scripts": {
+        "post-install-cmd": [
+             "php artisan vendor:publish --all"
+        ]
+    }
+}
